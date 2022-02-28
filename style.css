@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,wght@0,100;1,600&display=swap');
+
+html
+{
+    font-family: 'Roboto, serif';
+    text-align: center;
+    background-color: background: rgb(214,3,3);
+    background: linear-gradient(90deg, rgba(214,3,3,0.938813025210084) 12%, rgba(226,199,21,1) 41%, rgba(131,136,58,1) 100%);;
+
+
+
+
+
+ } 
